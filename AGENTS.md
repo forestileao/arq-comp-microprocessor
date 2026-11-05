@@ -37,7 +37,7 @@
 **Build/CI**
 - No CI is defined in this repo. If you add CI, prefer non‑GUI runs using ghdl only.
 
-**Coding Conventions and Naming**
+**Coding Conventions**
 - Filenames and identifiers use lower_snake_case (e.g., reg_bank.vhd).
 - Prefer explicit std_logic/std_logic_vector widths and numeric_std conversions.
 - Keep testbench clocks, resets, and stop‑time logic simple and self‑contained.
